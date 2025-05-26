@@ -3,60 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Jailbreak Tool Development on Ubuntu - Setup Guide</title>
-<style>
-  body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #232526, #1a1a1a);
-    color: #eee;
-    max-width: 900px;
-    margin: 2rem auto;
-    padding: 1.5rem 2rem;
-    border-radius: 12px;
-    box-shadow: 0 0 30px rgba(0,0,0,0.8);
-  }
-  h1, h2, h3 {
-    font-weight: 700;
-    color: #00ff99;
-  }
-  code {
-    background: #111;
-    padding: 0.2rem 0.4rem;
-    border-radius: 4px;
-    font-family: 'Fira Mono', monospace, monospace;
-    font-size: 0.95rem;
-    color: #0f0;
-  }
-  pre {
-    background: #111;
-    color: #0f0;
-    padding: 1rem;
-    overflow-x: auto;
-    border-radius: 8px;
-    font-size: 0.95rem;
-  }
-  a {
-    color: #0ff;
-    text-decoration: none;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-  ul {
-    margin-left: 1rem;
-    margin-bottom: 1rem;
-  }
-  section {
-    margin-bottom: 2rem;
-  }
-  .tip {
-    background: #004d40;
-    padding: 1rem;
-    border-left: 5px solid #00ff99;
-    margin-bottom: 1.5rem;
-    border-radius: 6px;
-  }
-</style>
+
 </head>
 <body>
 <h1>Jailbreak Tool Development Setup Guide on Ubuntu</h1>
